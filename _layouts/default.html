@@ -1,9 +1,16 @@
 <!DOCTYPE html>
-<html ⚡ lang="en">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
   <body>
     {% include header.html %}
 
     {{ content }}
-  </body>
+<script type="text/javascript" src="/dist/js/lightbox.js" data-cms-original-src="/js/lightbox.js"></script>
+<script>
+    lightbox.option({
+      'resizeDuration': 100,
+      'showImageNumberLabel': false
+    })
+</script>
+</body>
 </html>
