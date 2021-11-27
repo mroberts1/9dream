@@ -10,7 +10,7 @@ And please feel free to modify Immaculate's template files to your liking. Immac
 <a href="assets/images/sushi.jpg" data-lightbox="image1"><img src="/assets/images/sushi.jpg"></a>
 
 {% marginnote yt %}
-{% youtube MixPinocWyM 175 100 raw %}
+{% youtube FiwXUJJjL6g 175 100 raw %}
 {% endmarginnote %}
 
 Here is a **bold**, an *italic*, and a [hyperlink](/#).

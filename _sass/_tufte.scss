@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Enriqueta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
@@ -39,13 +39,13 @@
 }
 */
 /* Tufte CSS styles */
-html { font-size: 15px; }
+html { font-size: 12px; }
 
 body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: Enriqueta;
+       font-family: Montserrat;
        background-color: #fffff8;
        color: #111;
        max-width: 1400px;
