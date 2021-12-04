@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin Roberts - Articles</title>
-    <description>We do it for you.
+    <description>Unpublished papers
 </description>
     <link>
     http://localhost:4000</link>
@@ -14,7 +14,7 @@
           <description>&lt;p&gt;&lt;a href=&quot;assets/images/sf-full.jpg&quot; data-lightbox=&quot;image1&quot;&gt;&lt;img src=&quot;/assets/images/sf-small.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         
-        <pubDate>Sat, 27 Nov 2021 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 03 Dec 2021 00:00:00 -0500</pubDate>
         <link>
         http://localhost:4000/imagine.html</link>
         <guid isPermaLink="true">http://localhost:4000/imagine.html</guid>
