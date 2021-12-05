@@ -25,7 +25,7 @@ My thinking about this subject has been shaped by many sources, but I’ve been 
 My exploration of the transnational flows of popular music around the globe began with a paper on world music at the “Producão Cultural: Centro/Periferia” conference in Maceió, Brazil, in 1992, which was subsequently published in the journal *Diaspora*.
 
 {% marginnote margin1 %}
-“World Music: The Relocation of Culture.” *World Culture Report 1998: Culture, Creativity and Markets* (Paris: UNESCO, 1998).
+<br />“World Music: The Relocation of Culture.” *World Culture Report 1998: Culture, Creativity and Markets* (Paris: UNESCO, 1998).
 {% endmarginnote %}
 I subsequently presented a paper titled “World Music: The Relocation of Culture,” which focused on the globalization of Indonesian gamelan music, at the “Globalization and Creativity” roundtable organized by the John D. and Catherine T. MacArthur Foundation in 1996. A shorter version of the paper was subsequently published in UNESCO's 1998 *World Culture Report*. 
 
