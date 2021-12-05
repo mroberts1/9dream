@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'jekyll-compose', group: [:jekyll_plugins]
-# gem 'octopress-quote-tag', group: [:jekyll_plugins]
+ruby "2.7.2"
+
+gem "jekyll", "~> 4.2.0"
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-compose"
+end

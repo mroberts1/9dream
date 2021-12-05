@@ -4,41 +4,45 @@
 @charset "UTF-8";
 
 /* Tufte CSS styles */
-html { font-size: 15px; }
+html { font-size: 14px; }
 
 body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-       background-color: #fffff8;
+       font-family: Arial, Helvetica Neue, sans-serif;
+       background-color: #fffff3;
        color: #111;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1 { font-weight: 400;
-     margin-top: 4rem;
-     margin-bottom: 1.5rem;
-     font-size: 3.2rem;
+h1 { font-family: 'GillSans';
+     font-weight: 600;
+     margin-top: 1rem;
+     margin-bottom: 1rem;
+     font-size: 1.8rem;
      line-height: 1; }
 
-h2 { font-style: italic;
+h2 { color:#000000;
+     font-family: 'GillSans';
      font-weight: 400;
-     margin-top: 2.1rem;
+     margin-top: 1rem;
      margin-bottom: 0;
-     font-size: 2.2rem;
+     font-size: 1.5rem;
      line-height: 1; }
 
-h3 { font-style: italic;
+h3 { text-transform:uppercase;
+     text-decoration:none;
+     color:#CC0000;
+     font-family: 'GillSans';
      font-weight: 400;
-     font-size: 1.7rem;
-     margin-top: 2rem;
+     font-size: 1.5rem;
+     margin-top: 3rem;
      margin-bottom: 0;
      line-height: 1; }
 
-p.subtitle { font-style: italic;
-             margin-top: 1rem;
-             margin-bottom: 1rem;
+p.subtitle { margin-top: 1rem;
+             margin-bottom: 0rem;
              font-size: 1.8rem;
              display: block;
              line-height: 1; }
@@ -56,8 +60,8 @@ section { padding-top: 1rem;
 p, ol, ul, .pagination a, .pagination em { font-size: 1.4rem; }
 
 p { line-height: 2rem;
-    margin-top: 1.4rem;
-    margin-bottom: 1.4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     padding-right: 0;
     vertical-align: baseline; }
 
@@ -75,7 +79,7 @@ div.epigraph > blockquote > footer > cite { font-style: italic; }
 
 /* end chapter epigraphs styles */
 
-blockquote { font-size: 1.4rem; }
+blockquote { font-size: 1.8rem; }
 
 blockquote p { width: 50%; }
 
@@ -113,10 +117,9 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { color: inherit; }
+a:link, a:visited { text-decoration:none; color:#CC0000}
 
-a:link { text-decoration: none;
-         background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+/*a:link { background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
          background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
          -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
          -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;

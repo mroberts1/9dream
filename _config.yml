@@ -1,6 +1,6 @@
-title: Bribes et morceaux
+title: Martin Roberts
 description: >
-  Unpublished papers
+  Unpublished, unfinished, abandoned papers
 url: "https://imagine.netlify.com"
 paginate:	1 # The number of posts to show per page on your homepage
 name: "Martin Roberts"
@@ -10,3 +10,4 @@ kramdown:
   parse_block_html: true
 plugins:
   - jekyll-paginate
+  - jekyll-compose

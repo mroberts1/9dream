@@ -45,6 +45,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    octopress-quote-tag (1.0.4)
+      jekyll
+      rubypants
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
@@ -53,6 +56,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.26.1)
+    rubypants (0.7.1)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -64,9 +68,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.2.0)
   jekyll-compose
   jekyll-paginate
+  octopress-quote-tag
+
+RUBY VERSION
+   ruby 2.7.2p137
 
 BUNDLED WITH
    2.2.32

@@ -4,4 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-File issues at [https://github.com/siawyoung/immaculate/issues](https://github.com/siawyoung/immaculate/issues)!
+Email: [dokoissho@sdf.org](mailto://dokoissho@sdf.org)  
+Twitter: [@dokoissho](https://twitter.com/dokoissho)  
+Merveilles: [@dokoissho@merveilles.town](https://@dokoissho@merveilles.town)  
