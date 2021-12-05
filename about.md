@@ -17,7 +17,7 @@ permalink: /about/
 {% endmarginnote %}
 This site is a probably futile attempt to gather together my various published and (mostly) unpublished writings on global popular music over the past couple of decades.
 
-My thinking about this subject has been shaped by many sources, but I’ve been particularly indebted to Will Straw’s writings on music scenes; Shuhei Hosokawa’s concept of “soy sauce music”; Josh Kun’s concept of audiotopia; Joanna Demers’ and Mandy-Suzanne Wong’s theorizations of sound objects in electronic music; and my continuing ongoing conversation about global popular music with Hyunjoon Shin.
+My thinking about this subject has been shaped by many sources, but I’ve been particularly indebted to Will Straw’s writings on music scenes; Shuhei Hosokawa’s concept of “soy sauce music”; Josh Kun’s concept of audiotopia; Joanna Demers’ and Mandy-Suzanne Wong’s theorizations of sound objects in electronic music; and my continuing ongoing conversation about global popular music with Yoshitaka Mōri and Hyunjoon Shin.
 
 {% marginnote margin1 %}
 <br />“[World Music and the Global Cultural Economy](https://www.utpjournals.press/doi/abs/10.3138/diaspora.2.2.229),” in *Diaspora: a Journal of Transnational Studies* 2 (2) (1992): 229-242.
@@ -64,7 +64,7 @@ I also contributed an article about the genesis of the project to the 33 1/3 blo
 {% marginnote margin1 %}
 <br />“Three-Dimensional Music: Cornelius’s Animated Soundworlds.” Japan. Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
 {% endmarginnote %}
-Over the past five years I’ve continued to present my research on global popular music at conferences in Japan, Singapore, and China, including papers on John Lennon’s song “Imagine” as a global audiotopia, on the convergence between Asian hip hop and food culture, on the popularization of post-rock in Asia, and on the the digital music videos of Cornelius and Koichiru Tsujikawa. 
+Over the past five years I’ve continued to present my research on global popular music at conferences in Japan, Singapore, and China, including papers on John Lennon’s song “Imagine” as a global audiotopia, on the convergence between Asian hip hop and food culture, on the popularization of post-rock in Asia, and on the the digital music videos of Cornelius and Kōchirō Tsujikawa. 
 
 I’m planning to post online versions of all of these papers over the coming year.
 
