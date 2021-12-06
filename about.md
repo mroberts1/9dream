@@ -15,7 +15,7 @@ permalink: /about/
 {% endmarginnote %}{% marginnote margin1 %}
 <br />Mandy-Suzanne Wong, “[Listening to EDM: Sound Object Analysis and Vital Materialism](https://journals.openedition.org/volume/3647),” *Volume!* 10 (1) (2013): 193-211.
 {% endmarginnote %}
-This site is a probably futile attempt to gather together my various published and (mostly) unpublished writings on global popular music over the past couple of decades.
+<p><span class="newthought">This site</span> is a probably futile attempt to gather together my various published and (mostly) unpublished writings on global popular music over the past couple of decades.</p>
 
 My thinking about this subject has been shaped by many sources, but I’ve been particularly indebted to Will Straw’s writings on music scenes; Shuhei Hosokawa’s concept of “soy sauce music”; Josh Kun’s concept of audiotopia; Joanna Demers’ and Mandy-Suzanne Wong’s theorizations of sound objects in electronic music; and my continuing ongoing conversation about global popular music with Yoshitaka Mōri and Hyunjoon Shin.
 
@@ -64,11 +64,10 @@ I also contributed an article about the genesis of the project to the 33 1/3 blo
 {% marginnote margin1 %}
 <br />“Three-Dimensional Music: Cornelius’s Animated Soundworlds.” Japan. Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
 {% endmarginnote %}
-Over the past five years I’ve continued to present my research on global popular music at conferences in Japan, Singapore, and China, including papers on John Lennon’s song “Imagine” as a global audiotopia, on the convergence between Asian hip hop and food culture, on the popularization of post-rock in Asia, and on the the digital music videos of Cornelius and Kōchirō Tsujikawa. 
+Over the past five years I’ve continued to present my research on global popular music at conferences in Japan, Singapore, and China, including papers on John Lennon’s song “Imagine” as a global audiotopia, on the convergence between Asian hip hop and food culture, on the popularization of post-rock in Asia, and on the the digital music videos of Kōchirō Tsujikawa for Cornelius. 
 
 I’m planning to post online versions of all of these papers over the coming year.
 
-This overview doesn’t include my papers on the globalization of chipmusic and ludomusicology of the past decade--I'll try to make a separate page about them soon. 
+This overview doesn’t include my papers on the globalization of chipmusic and ludomusicology over the past decade--I'll try to make a separate page about them soon. 
 
-------  
 Martin Roberts teaches in the Department of Film & Media studies at Dartmouth College and the Department of Visual & Media Arts at Emerson College. His research interests include global documentary and world cinema, media subcultures, ludomusicology, and electronic music.
