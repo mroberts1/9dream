@@ -62,7 +62,7 @@ I also contributed an article about the genesis of the project to the 33 1/3 blo
 <br />“Tropical Dandies: *Merry Christmas, Mr. Lawrence*, Exoticism, and Bamboo Music.” Society for Cinema and Media Studies (SCMS) conference, Seattle, 13-17 March 2019.<br />
 {% endmarginnote %}
 {% marginnote margin1 %}
-<br />“Three-Dimensional Music: Cornelius’s Animated Soundworlds.” Japan. Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
+<br />“Three-Dimensional Music: Cornelius’s Animated Soundworlds.” Japan Society for Popular Music (JASPM) conference, Osaka, Japan, December 2019.
 {% endmarginnote %}
 Over the past five years I’ve continued to present my research on global popular music at conferences in Japan, Singapore, and China, including papers on John Lennon’s song “Imagine” as a global audiotopia, on the convergence between Asian hip hop and food culture, on the popularization of post-rock in Asia, and on the the digital music videos of Kōchirō Tsujikawa for Cornelius. 
 
