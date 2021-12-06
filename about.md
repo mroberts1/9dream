@@ -50,7 +50,7 @@ My Shibuya-kei article laid the groundwork for my book on one of the most influe
 I also contributed an article about the genesis of the project to the 33 1/3 blog.
 
 {% marginnote margin1 %}
-“Imagine: Performance and Ritual in an Age of Global Insecurity.” Cultural Typhoon conference, Tokyo University of the Arts, Japan, July 2016.
+“[Imagine: Performance and Ritual in an Age of Global Insecurity](https://9dream.netlify.com/imagine.html).” Cultural Typhoon conference, Tokyo University of the Arts (GEIDAI), Japan, July 2016.
 {% endmarginnote %}
 {% marginnote margin1 %}
 <br />“From Cookbook to Comic Book: Graphic Media, Hip Hop, and Asian-American Food Culture.” *Journal of Intercultural Studies* conference, “Migrating Concepts: Cosmopolitanism, Multiculturalism, and Conviviality Across the Asia Pacific,” Singapore, 23-25 February 2018.
