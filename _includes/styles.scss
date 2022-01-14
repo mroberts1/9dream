@@ -2,7 +2,8 @@
 $baseurl: '{{ site.baseurl }}';
 $grey-color: #828282;
 
-@import 'lean_tufte';
+@import 'lean_tufte', url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+;
 // @import 'syntax-highlighting';
 
 main {
