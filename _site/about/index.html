@@ -22,8 +22,8 @@
   "@type": "NewsArticle",
   "mainEntityOfPage": "http://localhost:4000/about/",
   "headline": "About",
-  "datePublished": "2022-01-16T19:50:50-05:00",
-  "dateModified": "2022-01-16T19:50:50-05:00",
+  "datePublished": "2022-01-16T21:39:46-05:00",
+  "dateModified": "2022-01-16T21:39:46-05:00",
   "description": "transnational soundscapes, song networks, audiotopias
 ",
   "author": {
@@ -53,19 +53,45 @@
   <style amp-custom>
   
   @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
-/* Import ET Book styles adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
-@font-face { font-family: charter; font-style: normal; font-weight: normal; font-stretch: normal; src: url("/assets/charter/charter_regular.woff2") format("woff2"); }
+@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+/*
+@font-face {
+font-family: charter;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_regular.woff2') format('woff2');
+}
 
-@font-face { font-family: charter; font-style: italic; font-weight: normal; font-stretch: normal; src: url("/assets/charter/charter_italic.woff2") format("woff2"); }
+@font-face {
+font-family: charter;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_italic.woff2') format('woff2');
+}
 
-@font-face { font-family: charter; font-style: normal; font-weight: bold; font-stretch: normal; src: url("/assets/charter/charter_bold.woff2") format("woff2"); }
+@font-face {
+font-family: charter;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_bold.woff2') format('woff2');
+}
 
-@font-face { font-family: charter; font-style: italic; font-weight: bold; font-stretch: normal; src: url("/assets/charter/charter_bold_italic.woff2") format("woff2"); }
+@font-face {
+font-family: charter;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_bold_italic.woff2') format('woff2');
+}
+    
+@charset "UTF-8";
+*/
+html { font-size: 15px; }
 
-/* Tufte CSS styles */
-html { font-size: 14px; }
-
-body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: 'charter', 'PT Serif', serif; font-style: roman; font-weight: 400; background-color: #f8f9f9; color: #111; max-width: 1400px; counter-reset: sidenote-counter; }
+body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: 'Charter', sans-serif; background-color: #f8f9f9; color: #111; max-width: 1400px; counter-reset: sidenote-counter; }
 
 h1 { text-transform: uppercase; text-decoration: none; color: #CC0000; font-family: 'Lato', 'Gill Sans', sans-serif; font-weight: 600; margin-top: 1rem; margin-bottom: 1rem; font-size: 1.5rem; line-height: 1; }
 
