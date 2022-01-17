@@ -1,6 +1,37 @@
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
+@font-face {
+font-family: charter;
+font-style: normal;
+font-weight: normal;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_regular.woff2') format('woff2');
+}
 
+@font-face {
+font-family: charter;
+font-style: italic;
+font-weight: normal;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_italic.woff2') format('woff2');
+}
+
+@font-face {
+font-family: charter;
+font-style: normal;
+font-weight: bold;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_bold.woff2') format('woff2');
+}
+
+@font-face {
+font-family: charter;
+font-style: italic;
+font-weight: bold;
+font-stretch: normal;
+src: url($baseurl + '/assets/charter/charter_bold_italic.woff2') format('woff2');
+}
+    
 @charset "UTF-8";
 
 /* Tufte CSS styles */
@@ -10,7 +41,7 @@ body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: 'PT Serif', Georgia, serif;
+       font-family: charter;
        background-color: #f8f9f9;
        color: #111;
        max-width: 1400px;
