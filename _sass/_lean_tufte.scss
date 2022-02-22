@@ -43,14 +43,14 @@ body { width: 87.5%;
        margin-right: auto;
        padding-left: 12.5%;
        font-family: 'Charter', sans-serif;
-       background-color: #f8f9f9;
+       background-color: #f5f5f5;
        color: #111;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
 h1 { text-transform:uppercase;
      text-decoration:none;
-     color:#CC0000;
+     color:#7B1818;
      font-family: 'Lato', 'Gill Sans', sans-serif;
      font-weight: 600;
      margin-top: 1rem;
@@ -68,7 +68,7 @@ h2 { color:#000000;
 
 h3 { text-transform:uppercase;
      text-decoration:none;
-     color:#CC0000;
+     color:#7B1818;
      font-family: 'Lato', 'Gill Sans', sans-serif;
      font-weight: 600;
      font-size: 1.5rem;
@@ -154,7 +154,7 @@ figcaption { float: right;
 figure.fullwidth figcaption { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
-a:link, a:visited { text-decoration:none; color:#CC0000}
+a:link, a:visited { text-decoration:none; color:#7B1818}
 
 /*a:link { background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
          background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
