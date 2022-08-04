@@ -1,8 +1,11 @@
 ---
-layout: post
-title: '#IMAGINE<br /><br />Performance & Ritual in an Age of Global Insecurity'
+layout: page
+title: ''
+permalink: /imagine/
 ---
-{% image assets/images/sf-full.jpg 800 571 raw %}
+# \#IMAGINE<br /><br />Performance & Ritual in an Age of Global Insecurity
+
+{% image ../../assets/images/sf-full.jpg 800 571 raw %}
 Paper presented at the Cultural Typhoon conference, [Tokyo University of the Arts (GEIDAI)](https://www.geidai.ac.jp/english/), Tokyo, Japan, 2 July 2016. 
 
 {% blockquote Supertramp %}
@@ -16,18 +19,18 @@ Now there’s not a lot I can do.*
 {% endblockquote %}
 ### You Say You Want A Revolution?
 {% marginnote margin1 %}
-<a href="assets/images/rostropovich.jpg" data-lightbox="rostropovich" data-alt="rostropovich"><img src="/assets/images/rostropovich.jpg" width="75" height="auto"></a>
+<a href="../assets/images/rostropovich.jpg" data-lightbox="rostropovich" data-alt="rostropovich"><img src="/../assets/images/rostropovich.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 In November 1989, after hearing reports of the impending fall of the Berlin Wall on his radio in Paris, the Russian cello virtuoso Slava Rostropovich flew to Berlin to perform an impromptu solo performance of Bach’s second Cello Suite at Checkpoint Charlie (Cello Suite No.2, BWV 1008). 
 {% marginnote margin1 %}
 {% youtube FiwXUJJjL6g 175 100 raw %}
 {% endmarginnote %} 
 {% marginnote margin1 %}
-<br /><a href="assets/images/lennon-wall-praha.jpg" data-lightbox="lennon" data-alt="lennon"><img src="/assets/images/lennon-wall-praha.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/lennon-wall-praha.jpg" data-lightbox="lennon" data-alt="lennon"><img src="/../assets/images/lennon-wall-praha.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 A year earlier, only a few hundred miles from Berlin in Prague, a different wall had been causing concern to the Communist regime in Czechoslovakia: the John Lennon wall, as it had become known, had since the early 80s become covered with Beatles and Lennon-related graffiti and in recent years had become a focus for messages of protest among the nation’s increasingly dissatisfied youth. Still standing to this day, the Wall was painted white in 2007 by (no-doubt Fluxus-minded) art activists, leaving only the text “Wall Is Over” (later corrected to “War Is Over”).
 {% marginnote margin1 %}
-<br /><a href="assets/images/martello-bicycle.jpg" data-lightbox="martello" data-alt="martello"><img src="assets/images/martello-bicycle.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/martello-bicycle.jpg" data-lightbox="martello" data-alt="martello"><img src="../assets/images/martello-bicycle.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 
 All of which is to say that Davide Martello’s performance of a wordless version of John Lennon’s song “Imagine” on a grand piano outside the Bataclan nightclub in Paris on the morning of Saturday 14 November 2015, where the previous night armed gunmen had shot dead 90 people, was not without historical precedent. 
@@ -36,13 +39,13 @@ All of which is to say that Davide Martello’s performance of a wordless versio
 {% endmarginnote %} 
 Rostropovich’s performance happened before cellphones and social media, even though a video clip of it was posted on YouTube two decades later. Clips of Martello’s performance, by contrast, were uploaded to YouTube the same day and with the help of news organisations briefly transformed the musician into a global celebrity. A German citizen of Italian descent, Martello was described by the French newspaper *Libération* as a “pianiste de crise” \[crisis pianist\], holding impromptu concerts in zones of conflict.{% sidenote martello Quentin Girard, “[Davide Martello. Pianiste de crise](https://www.liberation.fr/societe/2015/01/23/davide-martello-pianiste-de-crise_1187283/)” (*Libération*, 23 January 2015.) %} 
 {% marginnote margin1 %}
-<br /><a href="assets/images/martello-photo.jpg" data-lightbox="martello2" data-alt="martello2"><img src="assets/images/martello-photo.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/martello-photo.jpg" data-lightbox="martello2" data-alt="martello2"><img src="../assets/images/martello-photo.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 {% marginnote margin1 %}
-<br /><a href="assets/images/16martello-blog480.jpg" data-lightbox="martello3" data-alt="martello3"><img src="assets/images/16martello-blog480.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/16martello-blog480.jpg" data-lightbox="martello3" data-alt="martello3"><img src="../assets/images/16martello-blog480.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 {% marginnote margin1 %}
-<br /><a href="assets/images/martello-ukraine.jpg" data-lightbox="martello4" data-alt="martello4"><img src="assets/images/martello-ukraine.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/martello-ukraine.jpg" data-lightbox="martello4" data-alt="martello4"><img src="../assets/images/martello-ukraine.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 Prior to the Bataclan, his performances had included two nights in a park in Istanbul during police repression of a protest in 2013, which resulted in his piano being confiscated, and another in Donetsk, Ukraine, in April 2014 in front of a state building occupied by pro-Russian separatists. On the night of the Paris attacks, the pianist had reportedly  been watching the France-Germany soccer game at the Stade de France, one of the other sites of the attacks, at an Irish pub in his hometown of Konstanz, Germany, the previous evening, and had made the 400-mile drive to Paris overnight with his piano in tow. He later returned to the city to re-perform “Imagine” at each of the sites of the attacks.
 
@@ -87,20 +90,20 @@ While much has been written about the song’s music and lyrics, I want to focus
 
 What exactly is “Imagine”? A song, obviously, but not just any song: listed as #3 of *Rolling Stone* magazine’s 500 Greatest Songs of All Time, it is among the 100 most-performed songs of all time, having been covered by innumerable artists around the globe over the past half century. It could thus be better described as what Keir Keightley calls a *song network*, a historical and geographical web consisting of its hundreds of cover versions.{% sidenote keir Keir Keightley, “Un Voyage via Barquinho: Global Circulation, Musical Hybridization, and Adult Modernity, 1961-9,” in Jason Toynbee and Byron Dueck, eds., *Migrating Music* (New York: Routledge, 2011): 112-26. %} Unlike, say, “The Girl From Ipanema”, however, the historical contexts in which “Imagine” has been invoked have typically those of political struggle, as well as utopian affirmations of global citizenship. 
 {% marginnote margin1 %}
-<br /><br /><a href="assets/images/lennon-wall-praha.jpg" data-lightbox="lennon" data-alt="lennon"><img src="/assets/images/lennon-wall-praha.jpg" width="75" height="auto"></a>
+<br /><br /><a href="../assets/images/lennon-wall-praha.jpg" data-lightbox="lennon" data-alt="lennon"><img src="/../assets/images/lennon-wall-praha.jpg" width="75" height="auto"></a>
 {% endmarginnote %} 
 {% marginnote margin1 %}
-<a href="assets/images/imagine-t1.jpg" data-lightbox="tshirt" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="tshirt"><img src="assets/images/imagine-t1.jpg" width="75" height="auto"></a>
-<a href="assets/images/imagine-t2.jpg" data-lightbox="tshirt" data-alt="tshirt"></a>
-<a href="assets/images/imagine-mug2.jpg" data-lightbox="mug" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="mug"><img src="assets/images/imagine-mug2.jpg" width="75" height="auto"></a>
-<a href="assets/images/imagine-mug3.jpg" data-lightbox="mug" data-alt="mug"></a>
-<a href="assets/images/imagine-mug4.jpg" data-lightbox="mug" data-alt="mug"></a>
-<a href="assets/images/imagine-mug.gif" data-lightbox="mug" data-alt="mug"></a>
-<a href="assets/images/imagine-tattoo2.jpg" data-lightbox="tattoo" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="tattoo"><img src="assets/images/imagine-tattoo2.jpg" width="75" height="auto"></a>
-<a href="assets/images/imagine-tattoo3.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
-<a href="assets/images/imagine-tattoo4.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
-<a href="assets/images/imagine-tattoo5.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
-<a href="assets/images/imagine-tattoo.jpg" data-lightbox="tattoo" data-alt="tattoo"></a><br />
+<a href="../assets/images/imagine-t1.jpg" data-lightbox="tshirt" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="tshirt"><img src="../assets/images/imagine-t1.jpg" width="75" height="auto"></a>
+<a href="../assets/images/imagine-t2.jpg" data-lightbox="tshirt" data-alt="tshirt"></a>
+<a href="../assets/images/imagine-mug2.jpg" data-lightbox="mug" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="mug"><img src="../assets/images/imagine-mug2.jpg" width="75" height="auto"></a>
+<a href="../assets/images/imagine-mug3.jpg" data-lightbox="mug" data-alt="mug"></a>
+<a href="../assets/images/imagine-mug4.jpg" data-lightbox="mug" data-alt="mug"></a>
+<a href="../assets/images/imagine-mug.gif" data-lightbox="mug" data-alt="mug"></a>
+<a href="../assets/images/imagine-tattoo2.jpg" data-lightbox="tattoo" data-title="Click on right/left side of image or use <> arrows to see next/previous image" data-alt="tattoo"><img src="../assets/images/imagine-tattoo2.jpg" width="75" height="auto"></a>
+<a href="../assets/images/imagine-tattoo3.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
+<a href="../assets/images/imagine-tattoo4.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
+<a href="../assets/images/imagine-tattoo5.jpg" data-lightbox="tattoo" data-alt="tattoo"></a>
+<a href="../assets/images/imagine-tattoo.jpg" data-lightbox="tattoo" data-alt="tattoo"></a><br />
 {% endmarginnote %}  
 
 To this network, however, needs to be added symbolic inscriptions of the song in visual and material culture, from YouTube clips of Lennon recording the song with Phil Spector at Tittenhurst Park in 1971 to graffiti walls, T-shirts, coffee mugs, or even the body itself in the form of tattoos. These symbolic manifestations also include spatial and architectural ones, 
@@ -121,21 +124,21 @@ including the Imagine mosaic that is part of the Strawberry Fields memorial gard
 A dream you dream together is reality*
 {% endblockquote %}
 {% marginnote margin1 %}
-<br /><a href="assets/images/yoko-twitter.jpg" data-lightbox="twitter" data-alt="grapefruit"><img src="assets/images/yoko-twitter.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/yoko-twitter.jpg" data-lightbox="twitter" data-alt="grapefruit"><img src="../assets/images/yoko-twitter.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 It is well known that “Imagine” was inspired by Yoko Ono’s instruction pieces, a collection of which she reportedly gave to Lennon shortly after their first encounter at the Indica Gallery in London in 1966: some of them actually read like surrealist prototypes for the song’s lyrics.{% sidenote beram Nell Beram, "[The Book that Inspired 'Imagine'](https://slate.com/culture/2014/07/yoko-onos-grapefruit-at-50-the-book-that-inspired-john-lennons-imagine.html)" (*Slate*, 4 July 2014). %} 
 {% marginnote margin1 %}
-<br /><a href="assets/images/grapefruit.jpg" data-lightbox="grapefruit" data-alt="grapefruit"><img src="assets/images/grapefruit.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/grapefruit.jpg" data-lightbox="grapefruit" data-alt="grapefruit"><img src="../assets/images/grapefruit.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 The couple were promoting the U.K. edition of *Grapefruit* (1971) while recording the *Imagine* album, and Lennon later suggested that the song “Imagine” should have been credited as a Lennon/Ono song since both the lyric and the concept “came from Yoko.” It would thus seem appropriate to consider the song’s signficance in the context of Japan, especially its relation to protest music in the anti-nuclear movment both before and after Fukushima. 
 
 “Imagine” was released in Japan in 1971 as a red vinyl 7” single, in addition to [the album of the same name](https://www.rootsvinylguide.com/ebay_items/john-lennon-imagine-red-vinyl-apple-record-album-japan-ap-80370-lp-ono-beatles), and perhaps because of its connection with Yoko Ono is arguably as familiar to Japanese listeners as to Western ones.
 {% marginnote margin1 %}
-<a href="assets/images/pizzicato-one.jpg" data-lightbox="konishi" data-alt="grapefruit"><img src="assets/images/pizzicato-one.jpg" width="75" height="auto"></a>
+<a href="../assets/images/pizzicato-one.jpg" data-lightbox="konishi" data-alt="grapefruit"><img src="../assets/images/pizzicato-one.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 To take but one recent example, Konishi Yasuharu’s first *Pizzicato One* (2011) covers album includes an English-lyrics arrangement of “Imagine” interpreted by Blue Note jazz legend Marlena Shaw. 
 {% marginnote margin1 %}
-<a href="assets/images/rc-succession-covers.jpg" data-lightbox="covers" data-alt="grapefruit"><img src="assets/images/rc-succession-covers.jpg" width="75" height="auto"></a>
+<a href="../assets/images/rc-succession-covers.jpg" data-lightbox="covers" data-alt="grapefruit"><img src="../assets/images/rc-succession-covers.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 In Japanese translation, the song has been associated with the anti-nuclear protest movement in Japan since its performance by Imawano Kiyoshirō on his band RC Succession’s 1988 release *COVERS*, a collection of covers of well-known Anglo-American songs, including several associated with earlier protest movements (“Blowing in the Wind”, “Paint It Black”). 
 {% marginnote margin1 %}
@@ -157,7 +160,7 @@ One of the keys to the song’s mythic quality, it has been suggested, lies in t
 
 ## [\#YouMaySayImADreamer](https://twitter.com/hashtag/YouMaySayImADreamer)
 {% marginnote margin1 %}
-<a href="assets/images/unesco.jpg" data-lightbox="unesco" data-alt="unesco"><img src="assets/images/unesco.jpg" width="75" height="auto"></a>
+<a href="../assets/images/unesco.jpg" data-lightbox="unesco" data-alt="unesco"><img src="../assets/images/unesco.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 The U.N. and its related institutions interpellate us, in Althusser’s sense, as cosmopolitan global citizens, whether or not we happen to identify with that subject position. John Lennon was arguably one of the first popular musicians to identify himself as a world citizen, while  “Imagine” similarly interpellates us to imagine ourselves in the same way. It comes as little surprise, then, that “Imagine” and its utopian message of universal brother and sisterhood has become the unofficial anthem of U.N. instititions, a case in point being UNICEF’s 2014 #IMAGINE campaign. 
 {% marginnote margin1 %}
@@ -175,16 +178,16 @@ UNICEF’s #IMAGINE project was launched at the U.N. on the 25th anniversary of 
 <br />{% youtube LpQF38QlsRU 175 100 raw %}
 {% endmarginnote %}
 {% marginnote margin1 %}
-<br /><a href="assets/images/youmaysayimadreamer.png" data-lightbox="dreamer" data-alt="dreamer"><img src="assets/images/youmaysayimadreamer.png" width="75" height="auto"></a>
+<br /><a href="../assets/images/youmaysayimadreamer.png" data-lightbox="dreamer" data-alt="dreamer"><img src="../assets/images/youmaysayimadreamer.png" width="75" height="auto"></a>
 {% endmarginnote %}
 The main event itself took place on New Year’s Eve 2014, and involved children performing “Imagine” on white pianos in Cape Town, London, and Rio, and most bizarrely, a performance by a choir of teenage girls after the closing bell of the New York Stock Exchange on 31 December 2014. Spotify delivered a live stream of a set by global DJ David Guetta in Atlanta that included a  screening of a montage of the “World Version” of “Imagine” with contributions submitted via the TouchCast app. As has been the tradition since, the song was performed in New York’s Times Square by the band O.A.R. in the minutes preceding midnight.
 
 Since no figures have been made available on how much the UNICEF project raised, it’s difficult to estimate its success.{% sidenote touchcast While heavily promoted online, generating considerable media reportage, the project’s aftermath amounts to a virtual news blackout: almost all available online information predates the project and more or less disappears from the radar in 2015. %} From the outset, how exactly participating was related to fundraising was far from clear: while claiming that every uploaded video would “unlock $1 for UNICEF”, promotional materials included the mysterious disclaimer that “donations come from an ongoing fund drive from generous brands, organisations and individuals who support UNICEF”.
 {% marginnote margin1 %}
-<a href="assets/images/touchcast.jpg" data-lightbox="touchcast" data-alt="touchcast"><img src="assets/images/touchcast.jpg" width="75" height="auto"></a>
+<a href="../assets/images/touchcast.jpg" data-lightbox="touchcast" data-alt="touchcast"><img src="../assets/images/touchcast.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 {% marginnote margin1 %}
-<br /><a href="assets/images/touchcast2.jpg" data-lightbox="touchcast" data-alt="toucast"><img src="assets/images/touchcast2.jpg" width="75" height="auto"></a>
+<br /><a href="../assets/images/touchcast2.jpg" data-lightbox="touchcast" data-alt="toucast"><img src="../assets/images/touchcast2.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
 While the image of Lennon singing “Imagine” still appears on the TouchCast page of iPhone app store, the video itself has disappeared from the TouchCast’s iPhone app, and since it doesn’t include a search function there’s no way of retrieving it. TouchCast claimed that its app had been downloaded 100,000 times in the two weeks after its release, while the #IMAGINE hashtag had been used in almost 95,000 online tweets in the first week of the campaign. The [TouchCast website](http://v2.touchcast.com/un_unicef) does archive 1,128 videos uploaded between Nov 20 and March 3, a spotty collection of contributions by singing UNICEF ambassadors and botched efforts only a few seconds in length. Location metadata is not available either, but it appears that local UNICEF and UN offices in capital cities around the globe did as much as they could to generate local participation in the global event it was claimed to be. In spite of generating considerable media interest in the closing months of 2014, one is left nevertheless with an overriding sense that the event may have run up against Baudrillard’s famed inertia of the masses.
 
