@@ -5,7 +5,7 @@ permalink: /torrential-noise/
 ---
 # Torrential Noise<br /><br />1724 Records and the Asian Post-Rock Soundscape<br />  
 {% image ../assets/images/post-rock.jpg 500 500 raw %}
-Paper presented at the Interasiapop conference, Communication University of China, Beijing, China, 9-10 June 2018.
+Paper presented at the [6th Inter-Asia Popular Music Studies conference](https://interasiapop.org/conferences/the-6th-iapms-conference-in-beijing-china-2018/), Communication University of China, Beijing, China, 9-10 June 2018.  
 
 ### Part I: Shoegazers
 
