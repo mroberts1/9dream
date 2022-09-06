@@ -35,7 +35,7 @@ A year earlier, only a few hundred miles from Berlin in Prague, a different wall
 
 All of which is to say that Davide Martello’s performance of a wordless version of John Lennon’s song “Imagine” on a grand piano outside the Bataclan nightclub in Paris on the morning of Saturday 14 November 2015, where the previous night armed gunmen had shot dead 90 people, was not without historical precedent. 
 {% marginnote margin1 %}
-{% youtube 7qiMBRQZS-A 175 100 raw %}
+{% youtube w2lgwDCc5cs 175 100 raw %}
 {% endmarginnote %} 
 Rostropovich’s performance happened before cellphones and social media, even though a video clip of it was posted on YouTube two decades later. Clips of Martello’s performance, by contrast, were uploaded to YouTube the same day and with the help of news organisations briefly transformed the musician into a global celebrity. A German citizen of Italian descent, Martello was described by the French newspaper *Libération* as a “pianiste de crise” \[crisis pianist\], holding impromptu concerts in zones of conflict.{% sidenote martello Quentin Girard, “[Davide Martello. Pianiste de crise](https://www.liberation.fr/societe/2015/01/23/davide-martello-pianiste-de-crise_1187283/)” (*Libération*, 23 January 2015.) %} 
 {% marginnote margin1 %}
