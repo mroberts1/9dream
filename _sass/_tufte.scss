@@ -1,4 +1,204 @@
-@import url('https://fonts.googleapis.com/css2?family=Puritan&display=swap');
+/* My fonts
+*/
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCond.eot');
+    src: local('Univers Next Pro Bold Condensed'), local('UniversNextPro-BoldCond'),
+        url('UniversNextPro-BoldCond.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldCond.woff') format('woff'),
+        url('UniversNextPro-BoldCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Extended';
+    src: url('UniversNextPro-Ext.eot');
+    src: local('Univers Next Pro Extended'), local('UniversNextPro-Ext'),
+        url('UniversNextPro-Ext.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Ext.woff') format('woff'),
+        url('UniversNextPro-Ext.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('/UniversNext/UniversNextPro-Regular.eot');
+    src: local('/UniversNext/Univers Next Pro Regular'), local('UniversNextPro-Regular'),
+        url('/UniversNext/UniversNextPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/UniversNext/UniversNextPro-Regular.woff') format('woff'),
+        url('/UniversNext/UniversNextPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Thin.eot');
+    src: local('Univers Next Pro Thin'), local('UniversNextPro-Thin'),
+        url('UniversNextPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Thin.woff') format('woff'),
+        url('UniversNextPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Extended';
+    src: url('UniversNextPro-ExtItalic.eot');
+    src: local('Univers Next Pro Extended Italic'), local('UniversNextPro-ExtItalic'),
+        url('UniversNextPro-ExtItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-ExtItalic.woff') format('woff'),
+        url('UniversNextPro-ExtItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-ThinItalic.eot');
+    src: local('Univers Next Pro Thin Italic'), local('UniversNextPro-ThinItalic'),
+        url('UniversNextPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-ThinItalic.woff') format('woff'),
+        url('UniversNextPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCondIt.eot');
+    src: local('Univers Next Pro Light Condensed Italic'), local('UniversNextPro-LightCondIt'),
+        url('UniversNextPro-LightCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightCondIt.woff') format('woff'),
+        url('UniversNextPro-LightCondIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-BoldExtIt.eot');
+    src: local('Univers Next Pro Bold Extended Italic'), local('UniversNextPro-BoldExtIt'),
+        url('UniversNextPro-BoldExtIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldExtIt.woff') format('woff'),
+        url('UniversNextPro-BoldExtIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-CondItalic.eot');
+    src: local('Univers Next Pro Condensed Italic'), local('UniversNextPro-CondItalic'),
+        url('UniversNextPro-CondItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-CondItalic.woff') format('woff'),
+        url('UniversNextPro-CondItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Bold.eot');
+    src: local('Univers Next Pro Bold'), local('UniversNextPro-Bold'),
+        url('UniversNextPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Bold.woff') format('woff'),
+        url('UniversNextPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-LightExt.eot');
+    src: local('Univers Next Pro Light Extended'), local('UniversNextPro-LightExt'),
+        url('UniversNextPro-LightExt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightExt.woff') format('woff'),
+        url('UniversNextPro-LightExt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-LightExtIt.eot');
+    src: local('Univers Next Pro Light Extended Italic'), local('UniversNextPro-LightExtIt'),
+        url('UniversNextPro-LightExtIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightExtIt.woff') format('woff'),
+        url('UniversNextPro-LightExtIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCondIt.eot');
+    src: local('Univers Next Pro Heavy Condensed Italic'), local('UniversNextPro-HeavyCondIt'),
+        url('UniversNextPro-HeavyCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-HeavyCondIt.woff') format('woff'),
+        url('UniversNextPro-HeavyCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-BoldItalic.eot');
+    src: local('Univers Next Pro Bold Italic'), local('UniversNextPro-BoldItalic'),
+        url('UniversNextPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldItalic.woff') format('woff'),
+        url('UniversNextPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCond.eot');
+    src: local('Univers Next Pro Light Condensed'), local('UniversNextPro-LightCond'),
+        url('UniversNextPro-LightCond.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightCond.woff') format('woff'),
+        url('UniversNextPro-LightCond.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-BoldExt.eot');
+    src: local('Univers Next Pro Bold Extended'), local('UniversNextPro-BoldExt'),
+        url('UniversNextPro-BoldExt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldExt.woff') format('woff'),
+        url('UniversNextPro-BoldExt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Italic.eot');
+    src: local('Univers Next Pro Italic'), local('UniversNextPro-Italic'),
+        url('UniversNextPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Italic.woff') format('woff'),
+        url('UniversNextPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCondIt.eot');
+    src: local('Univers Next Pro Bold Condensed Italic'), local('UniversNextPro-BoldCondIt'),
+        url('UniversNextPro-BoldCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldCondIt.woff') format('woff'),
+        url('UniversNextPro-BoldCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+@import url("https://pvinis.github.io/iosevka-webfont/3.4.1/iosevka.css");
 
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
@@ -37,19 +237,19 @@
   font-style: normal;
 }
 /* Tufte CSS styles */
-html { font-size: 16px; }
+html { font-size: 14px; }
 
 body { width: 87.5%;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
-       font-family: "Droid Sans Mono", Helvetica, sans-serif;
+       font-family: "UniversNextPro-Regular", sans-serif;
        background-color: #fffff3;
        color: #111;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-h1, h2, h3, h4 {font-family: "Droid Sans Mono", Helvetica, sans-serif; text-transform: uppercase; color: rgb(220, 40, 40); font-weight: 600; letter-spacing: 1px; line-height: 1.3; -webkit-font-smoothing: antialiased;}
+h1, h2, h3, h4 {font-family: "UniversNextPro-BoldExt", sans-serif; text-transform: uppercase; color: black; font-weight: 600; letter-spacing: 1px; line-height: 1.3; -webkit-font-smoothing: antialiased;}
 h1 {font-size: 19px;}
 h2 {font-size: 17px;}
 h3 {font-size: 15px;}
@@ -63,28 +263,27 @@ h4 {font-size: 14px;}
 	h1, h2, h3, h4 {letter-spacing: 0px}
 }
 
-/*
-h1 { font-family: Gill Sans;
+h1 { font-family: "UniversNextPro-BoldExt", sans-serif;
      font-weight: 600;
      margin-top: 2rem;
      margin-bottom: 1rem;
      font-size: 2rem;
      line-height: 1; }
 
-h2 { font-family: Gill Sans;
+h2 { font-family: "UniversNextPro-BoldExt", sans-serif;
      font-weight: 600;
      margin-top: 2rem;
-     margin-bottom: 0;
+     margin-bottom: 1rem;
      font-size: 1.5rem;
      line-height: 1; }
 
-h3 { font-family: Gill Sans;
+h3 { font-family: "UniversNextPro-BoldExt", sans-serif;
      font-weight: 600;
      font-size: 1.3rem;
      margin-top: 2rem;
      margin-bottom: 0;
      line-height: 1; }
-*/
+
 p.subtitle { margin-top: 1rem;
              margin-bottom: 1rem;
              font-size: 1.2rem;
@@ -222,7 +421,7 @@ img { max-width: 100%; }
 .sidenote-number { counter-increment: sidenote-counter; }
 
 .sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
-                                           font-family: 'GillSans';
+                                           font-family: 'UniversNextPro-Regular';
                                            position: relative;
                                            vertical-align: baseline; }
 
@@ -239,7 +438,7 @@ p, footer, table, div.table-wrapper-small, div.supertable-wrapper > p, div.bookt
 div.fullwidth, table.fullwidth { width: 100%; }
 
 div.table-wrapper { overflow-x: auto;
-                    font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif; }
+                    font-family: "Iosevka Web", sans-serif; }
 
 @media screen and (max-width: 760px) { p, h1, h2, h3, footer { width: 90%; }
                                        pre.code { width: 87.5%; }
@@ -249,10 +448,10 @@ div.table-wrapper { overflow-x: auto;
                                                                                  max-width: none; }
                                        blockquote p, blockquote .footer { width: 90%; }}
 
-.sans { font-family: GillSans, "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+.sans { font-family: "Noto Sans", Calibri, sans-serif;
         letter-spacing: .03em; }
 
-.code { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+.code { font-family: "Iosevka Web", monospace;
         font-size: 1.125rem;
         line-height: 1.6; }
 

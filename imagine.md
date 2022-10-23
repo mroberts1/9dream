@@ -4,7 +4,9 @@ title: ''
 permalink: /imagine/
 ---
 <h1>\#IMAGINE</h1>
-<h2>Performance & Ritual in an Age of Global Insecurity</h2>
+
+## Performance & Ritual in an Age of Global Insecurity  
+
 {% image ../../assets/images/sf-full.jpg 800 571 raw %}
 Paper presented at the Cultural Typhoon conference, [Tokyo University of the Arts (GEIDAI)](https://www.geidai.ac.jp/english/), Tokyo, Japan, 2 July 2016. 
 
