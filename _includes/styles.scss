@@ -2,7 +2,7 @@
 $baseurl: '{{ site.baseurl }}';
 $grey-color: #828282;
 
-@import 'lean_tufte', url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import 'lean_tufte';
 ;
 // @import 'syntax-highlighting';
 
@@ -40,7 +40,7 @@ pre {
 }
 
 code {
-  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Iosevka Web", "Liberation Mono", Menlo, Courier, monospace;
   font-size: 1.125rem;
   line-height: 1.6;
 }

@@ -1,0 +1,198 @@
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCond.eot');
+    src: local('Univers Next Pro Bold Condensed'), local('UniversNextPro-BoldCond'),
+        url('UniversNextPro-BoldCond.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldCond.woff') format('woff'),
+        url('UniversNextPro-BoldCond.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Extended';
+    src: url('UniversNextPro-Ext.eot');
+    src: local('Univers Next Pro Extended'), local('UniversNextPro-Ext'),
+        url('UniversNextPro-Ext.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Ext.woff') format('woff'),
+        url('UniversNextPro-Ext.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Regular.eot');
+    src: local('Univers Next Pro Regular'), local('UniversNextPro-Regular'),
+        url('UniversNextPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Regular.woff') format('woff'),
+        url('UniversNextPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Thin.eot');
+    src: local('Univers Next Pro Thin'), local('UniversNextPro-Thin'),
+        url('UniversNextPro-Thin.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Thin.woff') format('woff'),
+        url('UniversNextPro-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Extended';
+    src: url('UniversNextPro-ExtItalic.eot');
+    src: local('Univers Next Pro Extended Italic'), local('UniversNextPro-ExtItalic'),
+        url('UniversNextPro-ExtItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-ExtItalic.woff') format('woff'),
+        url('UniversNextPro-ExtItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-ThinItalic.eot');
+    src: local('Univers Next Pro Thin Italic'), local('UniversNextPro-ThinItalic'),
+        url('UniversNextPro-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-ThinItalic.woff') format('woff'),
+        url('UniversNextPro-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCondIt.eot');
+    src: local('Univers Next Pro Light Condensed Italic'), local('UniversNextPro-LightCondIt'),
+        url('UniversNextPro-LightCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightCondIt.woff') format('woff'),
+        url('UniversNextPro-LightCondIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-BoldExtIt.eot');
+    src: local('Univers Next Pro Bold Extended Italic'), local('UniversNextPro-BoldExtIt'),
+        url('UniversNextPro-BoldExtIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldExtIt.woff') format('woff'),
+        url('UniversNextPro-BoldExtIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-CondItalic.eot');
+    src: local('Univers Next Pro Condensed Italic'), local('UniversNextPro-CondItalic'),
+        url('UniversNextPro-CondItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-CondItalic.woff') format('woff'),
+        url('UniversNextPro-CondItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Bold.eot');
+    src: local('Univers Next Pro Bold'), local('UniversNextPro-Bold'),
+        url('UniversNextPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Bold.woff') format('woff'),
+        url('UniversNextPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-LightExt.eot');
+    src: local('Univers Next Pro Light Extended'), local('UniversNextPro-LightExt'),
+        url('UniversNextPro-LightExt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightExt.woff') format('woff'),
+        url('UniversNextPro-LightExt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-LightExtIt.eot');
+    src: local('Univers Next Pro Light Extended Italic'), local('UniversNextPro-LightExtIt'),
+        url('UniversNextPro-LightExtIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightExtIt.woff') format('woff'),
+        url('UniversNextPro-LightExtIt.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Condensed';
+    src: url('UniversNextPro-HeavyCondIt.eot');
+    src: local('Univers Next Pro Heavy Condensed Italic'), local('UniversNextPro-HeavyCondIt'),
+        url('UniversNextPro-HeavyCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-HeavyCondIt.woff') format('woff'),
+        url('UniversNextPro-HeavyCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-BoldItalic.eot');
+    src: local('Univers Next Pro Bold Italic'), local('UniversNextPro-BoldItalic'),
+        url('UniversNextPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldItalic.woff') format('woff'),
+        url('UniversNextPro-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-LightCond.eot');
+    src: local('Univers Next Pro Light Condensed'), local('UniversNextPro-LightCond'),
+        url('UniversNextPro-LightCond.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-LightCond.woff') format('woff'),
+        url('UniversNextPro-LightCond.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Ext';
+    src: url('UniversNextPro-BoldExt.eot');
+    src: local('Univers Next Pro Bold Extended'), local('UniversNextPro-BoldExt'),
+        url('UniversNextPro-BoldExt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldExt.woff') format('woff'),
+        url('UniversNextPro-BoldExt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro';
+    src: url('UniversNextPro-Italic.eot');
+    src: local('Univers Next Pro Italic'), local('UniversNextPro-Italic'),
+        url('UniversNextPro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-Italic.woff') format('woff'),
+        url('UniversNextPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Univers Next Pro Light Cond';
+    src: url('UniversNextPro-BoldCondIt.eot');
+    src: local('Univers Next Pro Bold Condensed Italic'), local('UniversNextPro-BoldCondIt'),
+        url('UniversNextPro-BoldCondIt.eot?#iefix') format('embedded-opentype'),
+        url('UniversNextPro-BoldCondIt.woff') format('woff'),
+        url('UniversNextPro-BoldCondIt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+

@@ -4,19 +4,20 @@ title: ''
 permalink: /imagine/
 ---
 <h1>\#IMAGINE</h1>
-<h2>Performance & Ritual in an Age of Global Insecurity</h2><br />
+<h2>Performance & Ritual in an Age of Global Insecurity</h2>
 {% image ../../assets/images/sf-full.jpg 800 571 raw %}
 Paper presented at the Cultural Typhoon conference, [Tokyo University of the Arts (GEIDAI)](https://www.geidai.ac.jp/english/), Tokyo, Japan, 2 July 2016. 
 
-{% blockquote Supertramp %}
-*Dreamer  
+{% blockquote – Supertramp %}
+Dreamer  
 You know you are a dreamer   
 Well can you put your hands in your head, oh no!  
 I said ‘Far out -- what a day, a year, a life it is!’  
 You know  
 Well you know you had it comin’ to you    
-Now there’s not a lot I can do.*
+Now there’s not a lot I can do.
 {% endblockquote %}
+
 ### You Say You Want A Revolution?
 {% marginnote margin1 %}
 <a href="../assets/images/rostropovich.jpg" data-lightbox="rostropovich" data-alt="rostropovich"><img src="/../assets/images/rostropovich.jpg" width="75" height="auto"></a>
@@ -119,7 +120,7 @@ To this network, however, needs to be added symbolic inscriptions of the song in
 including the Imagine mosaic that is part of the Strawberry Fields memorial garden in New York’s Central Park, the John Lennon Wall in Prague (seen earlier), and the Imagine Peace Tower monument inaugurated by Yoko Ono in Iceland in 2007, not forgetting its digital simulacrum in *Second Life*. As these examples suggest, “Imagine” can be considered today as not so much a song as a global cultural institution.
 
 ### \#9 DREAM
-{% blockquote Yoko Ono %}
+{% blockquote - Yoko Ono %}
 *A dream you dream alone is only a dream  
 A dream you dream together is reality*
 {% endblockquote %}
@@ -158,7 +159,7 @@ As Noriko Manabe notes, however, Masafumi’s version is actually a *kaeuta* of 
 
 One of the keys to the song’s mythic quality, it has been suggested, lies in the very nebulousness of the utopia it sketches out, its lack of political specificity, which has enabled it to be read onto such a wide range of historical contexts. This obliqueness of “Imagine” makes it almost the perfect vehicle for anti-nuclear protest musicians in Japan, in view of the the political and economic constraints on dissent that Manabe’s book details, and which lead to the self-policing pervading both the music industry and the media more generally. While inviting us to imagine alternatives to the dominant order, the song stops  short of calling for its overthrow, thus ensuring its political innocuousness. While activists can hear it as an oblique protest against the dominant political and economic order, for politicians it never achieves the level of threat that would require censorship. Everybody wins: walking the line between genuine subversion and harmless dream, “Imagine” strikes the perfect compromise between hegemony and resistance. As the changing lyrics of the Beatles song “Revolution” show, Lennon himself was notoriously ambivalent about revolution as a form of social and political change, and “Imagine” is arguably another case in point.
 
-## [\#YouMaySayImADreamer](https://twitter.com/hashtag/YouMaySayImADreamer)
+### [\#YouMaySayImADreamer](https://twitter.com/hashtag/YouMaySayImADreamer)
 {% marginnote margin1 %}
 <a href="../assets/images/unesco.jpg" data-lightbox="unesco" data-alt="unesco"><img src="../assets/images/unesco.jpg" width="75" height="auto"></a>
 {% endmarginnote %}
@@ -213,7 +214,8 @@ So where does all this leave Davide Martello outside the Bataclan? Symbolically,
 {% marginnote margin1 %}
 <br />{% youtube qZaXRQIjR68 175 100 raw %}
 {% endmarginnote %}
-### CODA: ABOVE US ONLY DRONES
+
+### Coda: Above Us Only Drones
 The status of “Imagine” as a global cultural institution today was confirmed by its performance at the opening ceremony of the 2020 Tokyo Olympics. As a cloud of 1,800 drones that assembled into a three-dimensional shape of the Whole Earth floating above the stadium, Afropop star Angélique Kidjo reprised her #IMAGINE UNESCO performance of the song on a giant screen, accompanied by John Legend and Keith Urban, as white-clad dancers “of all genders, ages, and ethnicities” on the ground performed choreographed moves to the song. In the midst of a global pandemic that had caused the postponement of the Olympics itself and was still raging outside the stadium in Tokyo even as the song was being performed, the ceremony was an astonishing ritual of denial of what was actually going on in the world, a grotesque failure of the global imagination.
 {% marginnote margin1 %}
 <br />{% youtube 46_1OXewWu0 175 100 raw %}
