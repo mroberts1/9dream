@@ -9,13 +9,13 @@ permalink: /imagine/
 Paper presented at the Cultural Typhoon conference, [Tokyo University of the Arts (GEIDAI)](https://www.geidai.ac.jp/english/), Tokyo, Japan, 2 July 2016. 
 
 {% blockquote – Supertramp %}
-Dreamer  
+_Dreamer  
 You know you are a dreamer   
 Well can you put your hands in your head, oh no!  
 I said ‘Far out -- what a day, a year, a life it is!’  
 You know  
 Well you know you had it comin’ to you    
-Now there’s not a lot I can do.
+Now there’s not a lot I can do._
 {% endblockquote %}
 
 ### You Say You Want A Revolution?

@@ -3,7 +3,7 @@ $baseurl: '{{ site.baseurl }}';
 $grey-color: #828282;
 
 @import 'lean_tufte';
-;
+
 // @import 'syntax-highlighting';
 
 main {
@@ -40,7 +40,7 @@ pre {
 }
 
 code {
-  font-family: "Iosevka Web", "Liberation Mono", Menlo, Courier, monospace;
+  font-family: "Iosevka Web", monospace;
   font-size: 1.125rem;
   line-height: 1.6;
 }
