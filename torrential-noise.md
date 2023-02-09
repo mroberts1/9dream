@@ -18,7 +18,7 @@ permalink: /torrential-noise/
 {% marginnote margin1 %}
 <a href="../assets/images/mbv-band.jpg" data-lightbox="rostropovich" data-alt="band"><img src="/../assets/images/mbv-band.jpg" width="100" height="auto"></a>
 {% endmarginnote %}
-In the late 1980s, a new sound emerged from the seething ecosystem that is British popular music. Spearheaded by a band from Dublin called My Bloody Valentine, the sound was guitar-driven, heavily reliant on effects pedals producing sheets of delay and reverb, and not easy on the ears, even by usual rock standards: a 30-second passage of noise from one song that became part of the band’s live sets could stretch up to 40 minutes and up, creating an experience of sensory deprivation that drove fans to literally run from the room holding their ears.For those willing to ride out the storm, though, something miraculous happened, according to Mike McGonagil in his book for the 33 1/3 series on the band’s 1991 album _Loveless_:
+In the late 1980s, a new sound emerged from the seething ecosystem that is British popular music. Spearheaded by a band from Dublin called My Bloody Valentine, the sound was guitar-driven, heavily reliant on effects pedals producing sheets of delay and reverb, and not easy on the ears, even by usual rock standards: a 30-second passage of noise from one song that became part of the band’s live sets could stretch up to 40 minutes and up, creating an experience of sensory deprivation that drove fans to literally run from the room holding their ears. For those willing to ride out the storm, though, something miraculous happened, according to Mike McGonagil in his book for the 33 1/3 series on the band’s 1991 album _Loveless_:
 
 {% marginnote margin1 %}
 {% youtube v543u913x40 175 100 raw %}

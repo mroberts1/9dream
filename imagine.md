@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ''
+title:
 permalink: /imagine/
 ---
 <h1>\#IMAGINE</h1>

@@ -198,6 +198,7 @@
     font-weight: bold;
     font-style: italic;
 }
+
 @import url("https://pvinis.github.io/iosevka-webfont/3.4.1/iosevka.css");
 
 /* Import ET Book styles
@@ -283,6 +284,15 @@ h3 { font-family: "UniversNextPro-BoldExt", sans-serif;
      margin-top: 2rem;
      margin-bottom: 0;
      line-height: 1; }
+
+hr { display: block;
+    height: 1px;
+    width: 55%;
+    border: 0;
+    border-top: 1px solid #000;
+    margin: 1em 0;
+    padding: 0;
+}
 
 p.subtitle { margin-top: 1rem;
              margin-bottom: 1rem;
