@@ -21,7 +21,7 @@ permalink: /torrential-noise/
 In the late 1980s, a new sound emerged from the seething ecosystem that is British popular music. Spearheaded by a band from Dublin called My Bloody Valentine, the sound was guitar-driven, heavily reliant on effects pedals producing sheets of delay and reverb, and not easy on the ears, even by usual rock standards: a 30-second passage of noise from one song that became part of the band’s live sets could stretch up to 40 minutes and up, creating an experience of sensory deprivation that drove fans to literally run from the room holding their ears. For those willing to ride out the storm, though, something miraculous happened, according to Mike McGonagil in his book for the 33 1/3 series on the band’s 1991 album _Loveless_:
 
 {% marginnote margin1 %}
-{% youtube v543u913x40 175 100 raw %}
+{% vimeo 313098911 175 100 raw %}
 {% endmarginnote %} 
 {% blockquote %}
 *Now, just as suddenly as it hit in the first place, something truly beautiful is happening. A playful array of overtones can be heard bouncing about on top of the dirge. Everything goes into slow motion. I am absolutely transported and it seems that this cloud of harmonics sweetly filling the room, these delightful ping-ponging notes, are perhaps the whole point of this exercise, what the band had been trying to get to all along. The band do not appear to have changed what they're doing, they're still furiously playing what appears to be one chord, all of them. . . . There is a shimmering, hallucinatory quality to these notes that dance atop the noise, and it's hard to explain - nor have I found it to be captured on tape after scouring live shows. . . . It was brutally psychedelic, and more than mildly euphoric.*
